@@ -1,6 +1,6 @@
 # miapp_web
 
-A new Flutter project.
+Creación de una app en Flutter basada en un webview.
 
 ## Getting Started
 
